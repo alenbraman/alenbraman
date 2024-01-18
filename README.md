@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alenbraman
-- 👀 I’m interested in Arduino and Raspberry Pi porjects
+- 👀 I’m interested in Arduino and Raspberry Pi projects
 - 🌱 I’m currently learning Programming and Robotics
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
